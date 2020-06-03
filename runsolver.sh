@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Runs the solver program for the output thats piped in
+
 #echo running solver
 
 # echo $1

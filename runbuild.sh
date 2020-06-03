@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Run the code for sudoku create
+
 # echo "running build $1"
 
 # echo "finished build"
@@ -17,6 +19,5 @@
 FILE=output.txt
 
 ./sudoku create $1 > $FILE
-
 
 cat $FILE

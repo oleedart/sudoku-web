@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Just print the puzzle from output.txt
+
 # echo printing
 # echo $1
 
