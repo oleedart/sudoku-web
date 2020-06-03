@@ -66,7 +66,7 @@
 		<center>
 
 		<aside>
-			<!-- Button for getting the solution -->shm_put_var
+			<!-- Button for getting the solution -->
 			<form method="post"> 
 				<input type="submit" name="solution"
 						value="Get Solution"/> 
